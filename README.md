@@ -18,3 +18,6 @@
 <a href="https://psnprofiles.com/urang_CIANJUR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/playstation.svg" alt="urang_CIANJUR" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/urang_CIANJUR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="urang_CIANJUR" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img width="642" alt="npx depapp" src="https://user-images.githubusercontent.com/6134774/117261311-36966080-ae7a-11eb-8431-551d897e7e20.png">
+</p>
