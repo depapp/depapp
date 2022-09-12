@@ -1,11 +1,8 @@
-<h1 align="center">Hi there 👋, I am Depa</h1>
-<h3 align="center">Quality Engineer from Indonesia</h3>
-
 <p align="center">
   <img width="642" alt="npx depapp" src="https://user-images.githubusercontent.com/6134774/117261311-36966080-ae7a-11eb-8431-551d897e7e20.png">
 </p>
 
-## :books: contribution
+## :books: contribute to
 
 - https://github.com/mobile-dev-inc/maestro/pull/165
 
@@ -24,9 +21,3 @@
 - https://github.com/appium-userland/appium-flutter-driver/pull/303
 
 - https://github.com/segmentio/orbital/pull/3
-
-- https://github.com/xolvio/chimp/pull/698 -> rejected
-
-- https://github.com/petanikode/belajar-git/pull/24
-
-- https://github.com/PelatihanUID/DasarPHP
