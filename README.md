@@ -21,3 +21,7 @@
 - https://github.com/appium-userland/appium-flutter-driver/pull/303
 
 - https://github.com/segmentio/orbital/pull/3
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=depapp&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true" />
+</a></p>
