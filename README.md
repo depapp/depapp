@@ -8,6 +8,8 @@
 
 - https://github.com/mobile-dev-inc/maestro/pull/148
 
+- https://github.com/mobile-dev-inc/maestro/pull/175
+
 - https://github.com/microsoft/playwright/pull/16661
 
 - https://github.com/pactumjs/pactum/pull/198
