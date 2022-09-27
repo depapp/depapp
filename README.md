@@ -12,6 +12,10 @@
 
 - https://github.com/microsoft/playwright/pull/16661
 
+- https://github.com/microsoft/playwright/pull/17552
+
+- https://github.com/microsoft/playwright/pull/17524
+
 - https://github.com/pactumjs/pactum/pull/198
 
 - https://github.com/pactumjs/pactumjs.github.io/pull/20
