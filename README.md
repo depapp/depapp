@@ -10,7 +10,7 @@
 | ----------- | ----------- | ----------- |
 | https://github.com/mobile-dev-inc/maestro/pull/148 | https://github.com/microsoft/playwright/pull/16661 | https://github.com/ToolJet/ToolJet/pull/4287 |
 | https://github.com/mobile-dev-inc/maestro/pull/165 | https://github.com/microsoft/playwright/pull/17524 | https://github.com/ToolJet/ToolJet/pull/4308 |
-| https://github.com/mobile-dev-inc/maestro/pull/246 | https://github.com/microsoft/playwright/pull/17552 | |
+| https://github.com/mobile-dev-inc/maestro/pull/246 | https://github.com/microsoft/playwright/pull/17552 | https://github.com/ToolJet/ToolJet/pull/4379 |
 | https://github.com/mobile-dev-inc/maestro/pull/175 |  | |
 | https://github.com/mobile-dev-inc/maestro/pull/257 |  | |
 | https://github.com/mobile-dev-inc/maestro/pull/258 |  | |
