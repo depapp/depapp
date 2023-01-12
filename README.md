@@ -13,7 +13,9 @@
 | https://github.com/mobile-dev-inc/maestro/pull/246 | https://github.com/microsoft/playwright/pull/17552 | |
 | https://github.com/mobile-dev-inc/maestro/pull/175 | |
 | https://github.com/mobile-dev-inc/maestro/pull/257 | |
+| https://github.com/mobile-dev-inc/maestro/pull/502 | |
 | https://github.com/mobile-dev-inc/maestro/pull/258 | |
+| https://github.com/mobile-dev-inc/maestro/pull/515 | |
 
 | pactumjs | bruno | senarai |
 | ----------- | ----------- | ----------- |
