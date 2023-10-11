@@ -31,10 +31,7 @@
 | https://github.com/ToolJet/ToolJet/pull/4308 | https://github.com/rizafahmi/carikerja/pull/155 | https://github.com/segmentio/orbital/pull/3 |
 | https://github.com/ToolJet/ToolJet/pull/4379 | | https://github.com/goravel/docs/pull/23 |
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=depapp&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true" />
-</a></p>
-
-![](https://komarev.com/ghpvc/?username=depapp)
-
 </div>
+
+## 🦖 holopin
+[![An image of @depapp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/depapp)](https://holopin.io/@depapp)
