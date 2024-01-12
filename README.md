@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="642" alt="npx depapp" src="https://user-images.githubusercontent.com/6134774/117261311-36966080-ae7a-11eb-8431-551d897e7e20.png">
+  <img width="534" alt="npx depapp" src="https://github.com/depapp/depapp/assets/6134774/399bd135-1f9e-402e-9557-fdd658fa549c">
+</p>
+<p align="center">
   <a href="https://indogithubers.vercel.app/">
     <img src="https://indogithubers-badge.vercel.app/badge?username=depapp" alt="IndoGitHubers Badge">
   </a>
