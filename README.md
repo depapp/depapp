@@ -13,16 +13,18 @@
 
 | maestro | playwright | appium |
 | ----------- | ----------- | ----------- |
-| https://github.com/mobile-dev-inc/maestro/pull/148 | https://github.com/microsoft/playwright/pull/16661 | https://github.com/appium/appium-desktop/pull/2106 |
-| https://github.com/mobile-dev-inc/maestro/pull/165 | https://github.com/microsoft/playwright/pull/17524 | https://github.com/appium-userland/appium-flutter-driver/pull/303 |
-| https://github.com/mobile-dev-inc/maestro/pull/246 | https://github.com/microsoft/playwright/pull/17552 | |
-| https://github.com/mobile-dev-inc/maestro/pull/175 | https://github.com/microsoft/create-playwright/pull/86 |
+| https://github.com/mobile-dev-inc/maestro/pull/1750 | https://github.com/microsoft/playwright/pull/16661 | https://github.com/appium/appium-desktop/pull/2106 |
+| https://github.com/mobile-dev-inc/maestro/pull/148 | https://github.com/microsoft/playwright/pull/17524 | https://github.com/appium-userland/appium-flutter-driver/pull/303 |
+| https://github.com/mobile-dev-inc/maestro/pull/165 | https://github.com/microsoft/playwright/pull/17552 | |
+| https://github.com/mobile-dev-inc/maestro/pull/246 | https://github.com/microsoft/create-playwright/pull/86 |
+| https://github.com/mobile-dev-inc/maestro/pull/175 | |
 | https://github.com/mobile-dev-inc/maestro/pull/257 | |
 | https://github.com/mobile-dev-inc/maestro/pull/502 | |
 | https://github.com/mobile-dev-inc/maestro/pull/258 | |
 | https://github.com/mobile-dev-inc/maestro/pull/515 | |
 | https://github.com/mobile-dev-inc/maestro/pull/891 | |
 | https://github.com/mobile-dev-inc/maestro/pull/928 | |
+| https://github.com/mobile-dev-inc/maestro/pull/1169 | |
 
 | pactumjs | bruno | senarai |
 | ----------- | ----------- | ----------- |
