@@ -1,6 +1,13 @@
 <p align="center">
   <img width="534" alt="npx depapp" src="https://github.com/depapp/depapp/assets/6134774/399bd135-1f9e-402e-9557-fdd658fa549c">
 </p>
+
+<div align="center">
+  
+  [![my open-source contributions](https://img.shields.io/badge/my%20open--source%20contributions-click%20here-blue?style=for-the-badge&logo=github&link=https://my-open-source-contributions.vercel.app/depapp)](https://my-open-source-contributions.vercel.app/depapp)
+  
+</div>
+
 <p align="center">
   <a href="https://indogithubers.vercel.app/">
     <img src="https://indogithubers-badge.vercel.app/badge?username=depapp" alt="IndoGitHubers Badge">
